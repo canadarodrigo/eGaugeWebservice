@@ -61,9 +61,5 @@ public class Register {
 
     public void setRate(RateOfChange rate) {
         this.rate = rate;
-    }
-    
-    
-    
-    
+    }  
 }

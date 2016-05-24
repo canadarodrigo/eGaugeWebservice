@@ -1,5 +1,5 @@
-com\slc\egauge\entities\instataneous\Register.class
+com\slc\egauge\entities\instataneous\Value.class
+com\slc\egauge\entities\instataneous\TimeStamp.class
 com\slc\egauge\entities\instataneous\Data.class
 com\slc\egauge\entities\instataneous\RateOfChange.class
-com\slc\egauge\entities\instataneous\TimeStamp.class
-com\slc\egauge\entities\instataneous\Value.class
+com\slc\egauge\entities\instataneous\Register.class

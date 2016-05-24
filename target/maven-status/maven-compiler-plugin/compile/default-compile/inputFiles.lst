@@ -1,5 +1,15 @@
 H:\eGauge\eGaugeWebService\src\main\java\com\slc\egauge\entities\instataneous\Value.java
+H:\eGauge\eGaugeWebService\src\main\java\com\slc\egauge\entities\teamstat\Lag.java
 H:\eGauge\eGaugeWebService\src\main\java\com\slc\egauge\entities\instataneous\TimeStamp.java
-H:\eGauge\eGaugeWebService\src\main\java\com\slc\egauge\entities\instataneous\RateOfChange.java
+H:\eGauge\eGaugeWebService\src\main\java\com\slc\egauge\entities\teamstat\Excess.java
+H:\eGauge\eGaugeWebService\src\main\java\com\slc\egauge\entities\teamstat\Name.java
+H:\eGauge\eGaugeWebService\src\main\java\com\slc\egauge\entities\teamstat\LastValue.java
 H:\eGauge\eGaugeWebService\src\main\java\com\slc\egauge\entities\instataneous\Data.java
+H:\eGauge\eGaugeWebService\src\main\java\com\slc\egauge\entities\teamstat\LeakRate.java
+H:\eGauge\eGaugeWebService\src\main\java\com\slc\egauge\entities\teamstat\LastUpdate.java
+H:\eGauge\eGaugeWebService\src\main\java\com\slc\egauge\entities\teamstat\Status.java
+H:\eGauge\eGaugeWebService\src\main\java\com\slc\egauge\entities\teamstat\MaxRate.java
+H:\eGauge\eGaugeWebService\src\main\java\com\slc\egauge\entities\instataneous\RateOfChange.java
+H:\eGauge\eGaugeWebService\src\main\java\com\slc\egauge\entities\teamstat\Reg.java
+H:\eGauge\eGaugeWebService\src\main\java\com\slc\egauge\entities\teamstat\Available.java
 H:\eGauge\eGaugeWebService\src\main\java\com\slc\egauge\entities\instataneous\Register.java
