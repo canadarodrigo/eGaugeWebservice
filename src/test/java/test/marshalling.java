@@ -30,7 +30,7 @@ import javax.xml.transform.stream.StreamSource;
 public class marshalling {
     public static void main(String[] args) throws JAXBException
     {
-        JAXBContext jc = JAXBContext.newInstance(Status.class);
+        JAXBContext jc = JAXBContext.newInstance(Data.class);
  //       List<Register> registers = new ArrayList<Register>();
 //        Data data = new Data();
 //        data.setSerial("189731");
@@ -95,13 +95,13 @@ public class marshalling {
         //FROM URLS
         try {
 
-            URL url = new URL("http://egauge5593.egaug.es/cgi-bin/egauge?teamstat");
-            status = (Status) um.unmarshal(url);
+            URL url = new URL("http://egauge5593.egaug.es/cgi-bin/egauge?inst");
+            data = (Data) um.unmarshal(url);
             } catch (MalformedURLException ex) {
             Logger.getLogger(marshalling.class.getName()).log(Level.SEVERE, null, ex);
         } 
        
-        marshaller.marshal(status, System.out);
+        marshaller.marshal(data, System.out);
         
         
     }
